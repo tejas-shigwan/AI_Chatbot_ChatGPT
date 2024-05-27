@@ -1,4 +1,4 @@
-# AI_Chatbot_ChatGPT - The project aims to develop an interactive AI application using Streamlit, integrating Google's Gemini AI model for two main functionalities: Vision Application and Q&A Chat Application.
+AI_Chatbot_ChatGPT - The project aims to develop an interactive AI application using Streamlit, integrating Google's Gemini AI model for two main functionalities: Vision Application and Q&A Chat Application.
 
 Key Components:
 
